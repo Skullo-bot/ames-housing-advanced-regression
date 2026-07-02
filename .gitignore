@@ -1,0 +1,6 @@
+.config/
+sample_data/
+train.csv
+test.csv
+sample_submission.csv
+.ipynb_checkpoints/
