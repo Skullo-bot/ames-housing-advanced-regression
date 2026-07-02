@@ -1,7 +1,7 @@
 # 🏡 Ames Iowa House Price Prediction: Advanced Pricing Intelligence
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Skullo-bot/ames-housing-advanced-regression/blob/main/house_prices_advanced_regression.ipynb)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue)](https://www.kaggle.com/competitions/house-prices-advanced-regression)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue)]([https://www.kaggle.com/competitions/house-prices-advanced-regression](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard))
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow)](https://www.python.org/)
 
 An enterprise-grade, end-to-end Machine Learning pipeline designed to predict residential home prices in Ames, Iowa. This project leverages advanced feature engineering, structural missing value imputation, and a robust **Stacking Ensemble Regressor** to minimize Log-RMSE.
